@@ -35,7 +35,7 @@ public final class MinecordChat implements MinecordAddon, DedicatedServerModInit
     @Override
     public void onInitializeMinecord(JDABuilder builder)
     {
-        LOGGER.info("Minecord Chat is getting ready");
+        LOGGER.info("Minecord Chat is getting ready...");
 
         /*
          * Register Discord callbacks.
