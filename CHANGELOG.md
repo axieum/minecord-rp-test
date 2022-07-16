@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/axieum/minecord-rp-test/compare/v1.0.0...v1.0.1) (2022-07-16)
+
+
+### Bug Fixes
+
+* **chat:** add missing ellipsis to start log message ([00a2995](https://github.com/axieum/minecord-rp-test/commit/00a299552dcee16479b987043beadbf846097126))
+
 ## 1.0.0 (2022-07-16)
 
 
