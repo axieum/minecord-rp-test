@@ -3,7 +3,7 @@
   "id": "${id}",
   "version": "${version}",
   "name": "${name}",
-  "description": "Provides various commands to interact with your Minecraft server from Discord",
+  "description": "Provides various commands to interact with your Minecraft server from Discord!",
   "authors": [
     "Axieum"
   ],
