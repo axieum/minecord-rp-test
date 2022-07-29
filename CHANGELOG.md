@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/axieum/minecord-rp-test/compare/v1.0.1...v1.0.2) (2022-07-29)
+
+
+### Bug Fixes
+
+* **cmds:** loud mod description ([29d51d2](https://github.com/axieum/minecord-rp-test/commit/29d51d291e299f25922e93f618b4e62efbdf67b2))
+
 ## [1.0.1](https://github.com/axieum/minecord-rp-test/compare/v1.0.0...v1.0.1) (2022-07-16)
 
 
