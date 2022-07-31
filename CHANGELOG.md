@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/axieum/minecord-rp-test/compare/v1.0.2...v1.1.0) (2022-07-31)
+
+
+### Features
+
+* uplift all mods metadata and maven pom ([3ff572b](https://github.com/axieum/minecord-rp-test/commit/3ff572ba25786ab10a3146979144e73d5eceede1))
+
 ## [1.0.2](https://github.com/axieum/minecord-rp-test/compare/v1.0.1...v1.0.2) (2022-07-29)
 
 
